@@ -92,7 +92,7 @@ margin-bottom: 100px;
 }
 .sectionB{
     background: rgba(196, 196, 196, 0.5);
-    height: 840px;
+    height: 900px;
     align-items: center;
     text-align: center;
    
@@ -110,10 +110,10 @@ margin-bottom: 50px;
 .card-deck{
     margin-left: 200px;
     margin-right: 200px;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
 }
 .card-img-top{
-    height: 250px;
+    height: 300px;
 }
 footer{
     background: #000000;
